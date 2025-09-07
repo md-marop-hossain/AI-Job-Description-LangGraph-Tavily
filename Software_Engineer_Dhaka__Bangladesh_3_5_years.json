@@ -1,0 +1,63 @@
+{
+  "timestamp": "2025-09-07T15:57:08Z",
+  "params": {
+    "job_title": "Software Engineer",
+    "industry": "Software & Technology",
+    "Education": "Bachelor’s in Computer Science or related",
+    "company_name": "",
+    "location_type": "Onsite",
+    "experience": "3–5 years",
+    "required_skills": [
+      "Java",
+      "Python",
+      "Cloud Computing",
+      "Full Stack Development",
+      "Agile Methodologies"
+    ],
+    "preferred_skills": [
+      "AI Development",
+      "DevOps",
+      "Microservices",
+      "RESTful APIs"
+    ]
+  },
+  "outputs": {
+    "sections": {
+      "Executive Summary": "We are seeking a passionate Software Engineer with 3–5 years of experience to join our dynamic team in Dhaka. The ideal candidate will have a strong foundation in full stack development and a commitment to delivering high-quality technology solutions. This role offers the opportunity to work on impactful projects within a rapidly growing tech industry.",
+      "Key Responsibilities": [
+        "Design, develop, and maintain software applications.",
+        "Collaborate with cross-functional teams to define, design, and ship new features.",
+        "Troubleshoot and debug applications to optimize performance.",
+        "Participate in code reviews and maintain coding standards."
+      ],
+      "Required Qualifications": [
+        "Bachelor’s degree in Computer Science or related field.",
+        "3–5 years of experience in software development.",
+        "Proficiency in Java and Python.",
+        "Experience with cloud computing platforms."
+      ],
+      "Preferred Qualifications": [
+        "Familiarity with AI development and DevOps practices.",
+        "Experience with microservices architecture.",
+        "Knowledge of RESTful APIs."
+      ],
+      "What We Offer": [
+        "Competitive salary and performance bonuses.",
+        "Health insurance and parental leave.",
+        "Opportunities for professional development and training.",
+        "A supportive and innovative work environment."
+      ],
+      "skills": [
+        "Java",
+        "Python",
+        "Cloud Computing",
+        "Full Stack Development",
+        "Agile Methodologies",
+        "AI Development",
+        "DevOps",
+        "Microservices",
+        "RESTful APIs"
+      ]
+    }
+  }
+}
